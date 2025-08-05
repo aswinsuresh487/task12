@@ -1,0 +1,11 @@
+Create a new file in your project folder and name it style.css.
+
+Copy all the CSS code from inside the <style>...</style> tags in your HTML file.
+
+Paste that code into the new style.css file and save it.
+
+Delete the old <style>...</style> tags from your HTML.
+
+Link your CSS file in your <head> using:
+
+<link rel="stylesheet" href="style.css">

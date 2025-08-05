@@ -1,0 +1,11 @@
+Create a new file in your project folder and name it script.js (or any name ending with .js).
+
+Copy all your JavaScript code that was inside the <script>...</script> tags in your HTML file.
+
+Paste the code into script.js and save it.
+
+Remove the <script> tags and JS code from your HTML.
+
+Add a new script tag before the closing </body> tag in your HTML:
+
+<script src="script.js"></script>
